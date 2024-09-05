@@ -1,0 +1,30 @@
+#titulo{
+    color: rgb(150, 28, 85);
+    margin-left: 200px;
+
+}
+table,th,td,tr{border: 1px solid rgb(196, 87, 141);
+}
+body{
+    background-color: rgb(138, 189, 196);
+    margin-left: 300px;
+}
+#gato{
+    margin-top: 80px;
+    width: 150px;
+    margin-left: 300px;
+}
+#imagem{
+    width: 200px;
+    margin-left: 300px;
+}
+.tudo{
+    border-style: dashed;
+    margin-right: 150px;
+}
+.filme {
+    border-style: double;
+}
+.escrito{
+    border-style: double;
+}
